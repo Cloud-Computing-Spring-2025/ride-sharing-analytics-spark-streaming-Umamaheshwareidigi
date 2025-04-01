@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Umamaheshwareidigi/output/ride_data/part-00000-4739febc-f0bf-4c0a-ba6c-ad2fe0786503-c000.csv","size":358,"isDir":false,"modificationTime":1743529550271,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Umamaheshwareidigi/output/ride_data/part-00001-1d0c0c81-2c1a-4ebe-b7fc-da01cde0b159-c000.csv","size":360,"isDir":false,"modificationTime":1743529550282,"blockReplication":1,"blockSize":33554432,"action":"add"}
